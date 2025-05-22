@@ -5,9 +5,7 @@
 ## [CatMOD overview](https://cma2015.github.io/CatMOD/)
 
 <b>CatMOD</b>, a CatBoost-ensemble decision tree framework designed for single-base resolution detection of m<sup>6</sup>A modifications , trained on a dataset supported by DRS and m<sup>6</sup>A -seq profiles. The model incorporates four feature dimensions: <b>biological genomic sequences</b>, <b>base-calling qualities</b>, <b>systematic alignment errors</b>, and <b>current signals</b>.
-
-
-
+![Static Badge](https://github.com/cma2015/CatMOD/blob/main/img/catmod_workflow.png)
 
 ## [Run CatMOD locally](https://cma2015.github.io/CatMOD/)
 ### Requirements
