@@ -68,7 +68,7 @@ catmod predict --bed $sample_bed --datasets $datasets_folder --model /path/to/Ca
 ```
 
 ## [How to access help](https://cma2015.github.io/CatMOD/)
-- Comments/suggestions/bugs/issues are welcome reported [here](https://github.com/cma2015/CatMOD/issues) or contact: Yifan Bu b761307648@163.com, Minggui Song smg@nwafu.edu.cn or Chuang Ma chuangma2006@gmail.com
+- Comments/suggestions/bugs/issues are welcome reported [here](https://github.com/cma2015/CatMOD/issues) or contact: Minggui Song smg@nwafu.edu.cn or Chuang Ma chuangma2006@gmail.com
 
 ## Change log
 - 2025.04 Release CatMOD v1.0
