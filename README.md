@@ -6,7 +6,7 @@
 
 - [CatMOD overview](#CatMOD overview)
 - [Run CatMOD locally (creating conda environment)](#Run CatMOD locally)
-- [ How to use CatMOD](# How to use CatMOD)
+- [How to use CatMOD](# How to use CatMOD)
 
 ## [CatMOD overview](https://cma2015.github.io/CatMOD/)
 
