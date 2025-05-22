@@ -2,12 +2,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Linux-blue?logo=Linux&logoColor=white)![](https://camo.githubusercontent.com/cd1d74df39562c27a5d2700b62a3c29bf1fc8469f1485c36fba8a06336604a3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d707974686f6e2d626c75652e737667)
 
-## Table of Contents
-
-- [CatMOD overview](#CatMOD overview)
-- [Run CatMOD locally (creating conda environment)](#Run CatMOD locally)
-- [How to use CatMOD](# How to use CatMOD)
-
 ## [CatMOD overview](https://cma2015.github.io/CatMOD/)
 
 <b>CatMOD</b>, a CatBoost-ensemble decision tree framework designed for single-base resolution detection of m<sup>6</sup>A modifications , trained on a dataset supported by DRS and m<sup>6</sup>A -seq profiles. The model incorporates four feature dimensions: <b>biological genomic sequences</b>, <b>base-calling qualities</b>, <b>systematic alignment errors</b>, and <b>current signals</b>.
